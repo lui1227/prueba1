@@ -1,0 +1,11 @@
+body{
+    font-size:20px;
+}
+
+h1{
+    font-size: 5rem;
+}
+
+.nuevo_post h1{
+    font-size: 3.5rem;
+}
